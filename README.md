@@ -1,16 +1,18 @@
 Zombie Escape (Beta)
 -
-        
+
 What's New ?
 --------------
 
-- Knife Menu Beta !
+- Knife Menu Beta
 
-- Guillotine Will Adding In Diamond Menu !
+- 3 Extra Items Only
+  
+- Guillotine Added In Diamond Menu
 
-- Astra Guillotineex Added !
+- Astra Guillotineex Added
 
-- New Class Zombies !
+- Class Zombies
 
 Info About Ze
 --------------
@@ -31,6 +33,9 @@ Modify Mod
 - Credit By VX MOHAMED
 
 - If You Want Buy Sma Contact Me In Discord
+
+Discord
+--------------
 
 - Username : vx.moha
 
