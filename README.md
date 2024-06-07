@@ -17,7 +17,7 @@ What's New ?
 Info About Ze
 --------------
 
-- Remember, This Mod Will Be Only Amxx!
+- This Mod Will Be Only Amxx!
 
 - Work In Windows (Termux Box)
 
