@@ -21,6 +21,11 @@ Info About Ze
 
 - Work In Windows (Termux Box)
 
+Tutorial Install Termux Box In Android
+---------------
+
+- Watch This Video : https://youtu.be/1lkm_nOceCU?si=rkbeOjuQgmRyu_br
+
 Versions
 --------------
 
