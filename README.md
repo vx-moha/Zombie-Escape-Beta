@@ -1,4 +1,5 @@
-> Zombie Escape (Beta)
+Zombie Escape (Beta)
+-
         
 What's New ?
 --------------
@@ -11,15 +12,21 @@ What's New ?
 
 - New Class Zombies !
 
-And More....
+Info About Ze
 --------------
 
-- Remember, This Mod Will Be Only Amxx ! 
+- Remember, This Mod Will Be Only Amxx!
 
-- Work In Windows / Linux
+- Work In Windows (Termux Box)
+
+Versions
+--------------
 
 - Amxx Version : 1.9
 - Reapi Version : 5.22
+
+Modify Mod
+--------------
 
 - Credit By VX MOHAMED
 
